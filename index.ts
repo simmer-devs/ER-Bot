@@ -163,8 +163,8 @@ client.on("messageReactionRemove", (messageReaction, user) => {
 var connection = mysql.createConnection({
     host: "localhost",
     user: "root",
-    password: "Ma6tthew!",
-    database: "erdb"
+    password: "",
+    database: ""
 })
 //connecting to db and logging success or error to console
 connection.connect(function(err: any){
