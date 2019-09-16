@@ -31,10 +31,5 @@ export let config = {
         "simmer"
     ], 
     "badWords": [
-        "nigger",
-        "nigga",
-        "chink",
-        "faggot",
-        "cunt",
     ]
 }
