@@ -1,7 +1,7 @@
-# ER-Bot
+# **ER-Bot**
 Multi-purpose custom Discord bot created using TypeScript, Discord.js, Node.js and various NPM packages.
 
-Current Version:
+### Current Version:
 - Automatic greeting and role assignment on new member joining \n 
 - Text role assignment commands with greeting message(!rankName)
 - Role assignment/removal from reactions on a cached message 
@@ -12,7 +12,7 @@ Current Version:
 - Let me google that for you command (!google)
 - Basic Music Bot functionality (connect, play, disconnect)
 
-To Do:
+### To Do:
 1. Event Handler (Doable)
 2. Interactive !help Menu (Doable)
 3. Better !serverinfo command (Doable)
