@@ -203,14 +203,14 @@ client.on("guildMemberAdd", member => {
 
 client.on("message", msg => {
 
-    var censorList = ConfigFile.config.badWords
-    var commandList = ConfigFile.config.commands
-    var msgContent = msg.content.toLowerCase()
-    var moddedChannel = msg.channel as Discord.TextChannel
-    var modChannel = msg.guild.channels.find(c => c.id === "621554832582508564") as Discord.TextChannel
-    
     if(msg.author.bot) { return; }
     if(msg.channel.type == "dm") { return; }
+    
+    const censorList = ConfigFile.config.badWords
+    const commandList = ConfigFile.config.commands
+    let msgContent = msg.content.toLowerCase()
+    let moddedChannel = msg.channel as Discord.TextChannel
+    let modChannel = msg.guild.channels.find(c => c.id === "621554832582508564") as Discord.TextChannel
 
     if(msgContent.startsWith(ConfigFile.config.prefix)){
         for(let k = 0; k < censorList.length; k++){
