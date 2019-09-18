@@ -13,8 +13,8 @@ Current Version:
 - Basic Music Bot functionality (connect, play, disconnect)
 
 To Do:
-- Event Handler (Doable)
-- Interactive !help Menu (Doable)
-- Better !serverinfo command (Doable)
-- Twitch.tv GET/POST requests for livestream notifications, OAuth2 (Maybe)
-- Music Bot Queue System (Maybe)
+1. Event Handler (Doable)
+2. Interactive !help Menu (Doable)
+3. Better !serverinfo command (Doable)
+4. Twitch.tv GET/POST requests for livestream notifications, OAuth2 (Maybe)
+5. Music Bot Queue System (Maybe)
