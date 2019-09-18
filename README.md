@@ -2,7 +2,7 @@
 Multi-purpose custom Discord bot created using TypeScript, Discord.js, Node.js and various NPM packages.
 
 ### **Current Version:**
-- Automatic greeting and role assignment on new member joining \n 
+- Automatic greeting and role assignment on new member joining 
 - Text role assignment commands with greeting message(!rankName)
 - Role assignment/removal from reactions on a cached message 
 - Kick and Ban commands requiring "Administrator" permissions
