@@ -18,3 +18,6 @@ Multi-purpose custom Discord bot created using TypeScript, Discord.js, Node.js a
 3. Better !serverinfo command (Doable)
 4. Twitch.tv GET/POST requests for livestream notifications, OAuth2 (Maybe)
 5. Music Bot Queue System (Maybe)
+
+
+![alt text](Images/ER GOLD.png)
