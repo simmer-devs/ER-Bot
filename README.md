@@ -20,4 +20,4 @@ Multi-purpose custom Discord bot created using TypeScript, Discord.js, Node.js a
 5. Music Bot Queue System (Maybe)
 
 
-![Alt text](Images/ER GOLD.png)
+![Alt text](https://github.com/simmer-devs/ER-Bot/blob/master/Images/ER%20GOLD.PNG?raw=true)
