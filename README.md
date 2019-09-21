@@ -13,7 +13,7 @@ Multi-purpose custom Discord bot created using TypeScript, Discord.js, Node.js a
 - Basic Music Bot functionality (connect, play, disconnect)
 
 ### **To Do:**
-1. Event Handler (Doable)
+1. Event Handler (Done on simmer-devs/Bot-Framework repository!)
 2. Interactive !help Menu (Doable)
 3. Better !serverinfo command (Doable)
 4. Twitch.tv GET/POST requests for livestream notifications, OAuth2 (Maybe)
